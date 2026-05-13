@@ -62,7 +62,7 @@ export function Hero() {
             <div className="absolute inset-0 bg-gradient-to-br from-pink-400 to-purple-400 rounded-3xl transform rotate-3"></div>
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <ImageWithFallback
-                src="public/images/Eli-ausculta.jpg"
+                src="/images/Eli-ausculta.jpg"
                 alt="Dra. Eliana Cintra"
                 className="w-full h-full object-cover"
               />
