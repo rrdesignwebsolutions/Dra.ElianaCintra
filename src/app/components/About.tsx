@@ -9,7 +9,7 @@ export function About() {
           <div className="relative order-2 md:order-1">
             <div className="rounded-2xl overflow-hidden shadow-xl">
               <ImageWithFallback
-                src="/public/images/Eli-brincando-paciente.jpg"
+                src="/images/Eli-brincando-paciente.jpg"
                 alt="Mãe feliz com bebê"
                 className="w-full h-full object-cover"
               />

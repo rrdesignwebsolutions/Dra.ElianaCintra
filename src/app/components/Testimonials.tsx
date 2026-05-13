@@ -66,7 +66,7 @@ export function Testimonials() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="rounded-xl overflow-hidden">
               <ImageWithFallback
-                src="/public/images/DraEliana1.jpg"
+                src="/images/DraEliana1.jpg"
                 alt="Bebê sorridente"
                 className="w-full h-64 object-cover"
               />

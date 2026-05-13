@@ -5,7 +5,7 @@ export function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className="md:col-span-2">
             <div className="flex items-center mb-4">
-              <img src="/public/images/logo Eli variação.png" alt="Dra. Eliana Cintra" className="h-20 brightness-0 invert" />
+              <img src="/images/logo Eli variação.png" alt="Dra. Eliana Cintra" className="h-20 brightness-0 invert" />
             </div>
             <p className="text-gray-400 mb-4">
               Cuidando da saúde das crianças com amor, dedicação e experiência há mais de 30 anos.

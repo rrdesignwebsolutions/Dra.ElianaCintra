@@ -60,7 +60,7 @@ export function Differentials() {
             <div className="absolute inset-0 bg-gradient-to-br from-purple-200 to-pink-200 rounded-3xl transform -rotate-3"></div>
             <div className="relative rounded-3xl overflow-hidden shadow-xl">
               <ImageWithFallback
-                src="/public/images/Eli-paciente-mãe.jpg"
+                src="/images/Eli-paciente-mãe.jpg"
                 alt="Consultório pediátrico"
                 className="w-full h-full object-cover"
               />
